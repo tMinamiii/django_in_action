@@ -20,7 +20,7 @@ pre-commit = "^1.20.0"
 pydocstyle = "^5.0.1"
 pynvim = "^0.4.0"
 pytest = "^5.3.2"
-django = "^3.0"
+django = "^3.1"
 pymysql = "^0.9.3"
 
 [build-system]
